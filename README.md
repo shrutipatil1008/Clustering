@@ -1,4 +1,5 @@
 Data Clustering on Sales Products
+
 📅 Mar 2024 – July 2024
 
 - Performed data-driven research on sales product clustering, leading to optimized revenue grouping and market segmentation.
